@@ -1,6 +1,6 @@
 Package: cblasr
 Type: Package
-Title: The Missing 'CBLAS' Interface for R
+Title: The Missing 'CBLAS' Interface
 Version: 0.1.0
 Author: Yi Pan [aut, cre]
 Maintainer: Yi Pan <ypan1988@gmail.com>
